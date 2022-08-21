@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    background-color: rgb(102, 100, 100);
+}
+
+#formu {
+    background-color: rgb(102, 100, 100);
+}
+
+#buttonu {
+    margin: 5% 45% 3% 45%;
+}
+
+#hash1 {
+    margin: 3% 37% 0%;
+    font-size: 50px;
+}
+
+#thetivias {
+    margin: 0% 30%;
+}
